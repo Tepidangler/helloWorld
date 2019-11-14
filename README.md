@@ -1,4 +1,4 @@
-#An attempt at greatness
+# An attempt at greatness
 
 Guess I should add that this relies on the nana opensource library, and also it probably has some dependencies. I'll sort all of that out later.
 
